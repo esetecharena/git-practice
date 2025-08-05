@@ -1,3 +1,3 @@
 ## Contributors
-- **Myself** - [Fortune](esebagbonfortune73@gmail.com)  
+- **Myself** - [Fortune](https://github.com/esetecharena)  
 - **Instructor** - [mubarraqqq](https://github.com/mubarraqqq)
